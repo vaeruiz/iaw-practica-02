@@ -1,1 +1,0 @@
-# iaw-practica-02
