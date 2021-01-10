@@ -38,10 +38,6 @@ mysql -u root <<< "FLUSH PRIVILEGES;"
 #------------------------------
 apt install php libapache2-mod-php php-mysql -y
 
-#Crear el archivo info.php con el contenido necesario
-echo "<?php
-phpinfo();
-?>" >> /var/www/html/info.php
 #--------------------------------------------------------------
 
 #--------------------
